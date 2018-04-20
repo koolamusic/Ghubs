@@ -4,9 +4,15 @@ A website where users may enter a GitHub username into a form, submit it, and se
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
-## Development server
+## Run Development Server 
+- Install Lastest version of angular-cli `npm install @angular/cli@latest` or `npm install -g @angular/cli@latest` to install globally for all angular apps in your pc, some versions of linux would require `sudo`
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Run `npm install` to install all required dependencies 
+- Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Deploying Angular to gh-pages or subtree
+Refer to this [github gist](https://gist.github.com/tecmie/42a14d19750a2730e179c2c437158a5a)
+
 
 ## Code scaffolding
 
